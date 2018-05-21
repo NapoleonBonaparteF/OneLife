@@ -1,0 +1,31 @@
+GamePage.o: GamePage.cpp GamePage.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/game/gameGraphics.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/Image.h \
+ ../../minorGems/graphics/ChannelFilter.h \
+ ../../minorGems/graphics/Color.h ../../minorGems/io/Serializable.h \
+ ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/OutputStream.h \
+ ../../minorGems/graphics/RawRGBAImage.h PageComponent.h \
+ ../../minorGems/ui/GUIComponent.h ../../minorGems/util/SimpleVector.h \
+ message.h serialWebRequests.h whiteSprites.h \
+ ../../minorGems/util/stringUtils.h ../../minorGems/game/game.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/system/Time.h
+
+GamePage.dep: GamePage.cpp GamePage.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/game/gameGraphics.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/Image.h \
+ ../../minorGems/graphics/ChannelFilter.h \
+ ../../minorGems/graphics/Color.h ../../minorGems/io/Serializable.h \
+ ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/OutputStream.h \
+ ../../minorGems/graphics/RawRGBAImage.h PageComponent.h \
+ ../../minorGems/ui/GUIComponent.h ../../minorGems/util/SimpleVector.h \
+ message.h serialWebRequests.h whiteSprites.h \
+ ../../minorGems/util/stringUtils.h ../../minorGems/game/game.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/system/Time.h

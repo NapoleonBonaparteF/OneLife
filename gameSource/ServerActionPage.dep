@@ -1,0 +1,39 @@
+ServerActionPage.o: ServerActionPage.cpp ServerActionPage.h GamePage.h \
+ ../../minorGems/game/doublePair.h ../../minorGems/game/gameGraphics.h \
+ ../../minorGems/game/doublePair.h ../../minorGems/graphics/Image.h \
+ ../../minorGems/graphics/ChannelFilter.h \
+ ../../minorGems/graphics/Color.h ../../minorGems/io/Serializable.h \
+ ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/OutputStream.h \
+ ../../minorGems/graphics/RawRGBAImage.h PageComponent.h \
+ ../../minorGems/ui/GUIComponent.h ../../minorGems/util/SimpleVector.h \
+ TextButton.h Button.h ../../minorGems/game/Font.h \
+ ../../minorGems/ui/event/ActionListenerList.h \
+ ../../minorGems/ui/event/ActionListener.h TextField.h \
+ ../../minorGems/system/Time.h ../../minorGems/game/game.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/util/stringUtils.h ../../minorGems/crypto/hashes/sha1.h \
+ ../../minorGems/system/endian.h ../../minorGems/network/web/URLUtils.h \
+ serialWebRequests.h accountHmac.h
+
+ServerActionPage.dep: ServerActionPage.cpp ServerActionPage.h GamePage.h \
+ ../../minorGems/game/doublePair.h ../../minorGems/game/gameGraphics.h \
+ ../../minorGems/game/doublePair.h ../../minorGems/graphics/Image.h \
+ ../../minorGems/graphics/ChannelFilter.h \
+ ../../minorGems/graphics/Color.h ../../minorGems/io/Serializable.h \
+ ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/OutputStream.h \
+ ../../minorGems/graphics/RawRGBAImage.h PageComponent.h \
+ ../../minorGems/ui/GUIComponent.h ../../minorGems/util/SimpleVector.h \
+ TextButton.h Button.h ../../minorGems/game/Font.h \
+ ../../minorGems/ui/event/ActionListenerList.h \
+ ../../minorGems/ui/event/ActionListener.h TextField.h \
+ ../../minorGems/system/Time.h ../../minorGems/game/game.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/util/stringUtils.h ../../minorGems/crypto/hashes/sha1.h \
+ ../../minorGems/system/endian.h ../../minorGems/network/web/URLUtils.h \
+ serialWebRequests.h accountHmac.h

@@ -1,0 +1,11 @@
+accountHmac.o: accountHmac.cpp accountHmac.h \
+ ../../minorGems/util/stringUtils.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/util/SimpleVector.h ../../minorGems/crypto/hashes/sha1.h \
+ ../../minorGems/system/endian.h
+
+accountHmac.dep: accountHmac.cpp accountHmac.h \
+ ../../minorGems/util/stringUtils.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/util/SimpleVector.h ../../minorGems/crypto/hashes/sha1.h \
+ ../../minorGems/system/endian.h

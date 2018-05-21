@@ -1,0 +1,373 @@
+L4 | Mon May  7 04:27:56 2018 (837 ms) | general | Server starting up
+L4 | Mon May  7 04:27:57 2018 (89 ms) | general | Server using version number 88
+L4 | Mon May  7 04:27:57 2018 (170 ms) | general | lifeLog starting up
+L4 | Mon May  7 04:27:57 2018 (173 ms) | general | Backup system inited.  Backups on = 1, target hour UTC = 8, current hour UTC = 4, last backup was 423796.465833 hours ago
+L4 | Mon May  7 04:27:58 2018 (699 ms) | general | foodLog starting up
+L4 | Mon May  7 04:27:58 2018 (700 ms) | general | failureLog starting up
+L4 | Mon May  7 04:27:58 2018 (729 ms) | general | No lookTimes present, not cleaning map.db
+L4 | Mon May  7 04:27:59 2018 (27 ms) | general | No lookTimes present, not cleaning mapTime.db
+L4 | Mon May  7 04:27:59 2018 (326 ms) | general | No lookTimes present, not cleaning biome.db
+L4 | Mon May  7 04:27:59 2018 (893 ms) | general | No lookTimes present, not cleaning floor.db
+L4 | Mon May  7 04:28:00 2018 (210 ms) | general | No lookTimes present, not cleaning floorTime.db
+L4 | Mon May  7 04:28:00 2018 (506 ms) | general | Biome 0:  Found 14 natural objects with total weight 15.000000
+L4 | Mon May  7 04:28:00 2018 (506 ms) | general | Biome 3:  Found 11 natural objects with total weight 7.410000
+L4 | Mon May  7 04:28:00 2018 (507 ms) | general | Biome 4:  Found 7 natural objects with total weight 3.410000
+L4 | Mon May  7 04:28:00 2018 (507 ms) | general | Biome 5:  Found 9 natural objects with total weight 4.551000
+L4 | Mon May  7 04:28:00 2018 (507 ms) | general | Biome 2:  Found 6 natural objects with total weight 4.500000
+L4 | Mon May  7 04:28:00 2018 (507 ms) | general | Biome 1:  Found 5 natural objects with total weight 7.000000
+L4 | Mon May  7 04:28:00 2018 (507 ms) | general | 
+Cleaning map of objects that have been removed and variable objects...
+L4 | Mon May  7 04:28:00 2018 (786 ms) | general | ...0 map cells were set, and 0 needed to be cleared.
+L4 | Mon May  7 04:28:00 2018 (786 ms) | general | ...0 contained objects present, and 0 needed to be cleared.
+L4 | Mon May  7 04:28:00 2018 (787 ms) | general | Listening for connection on port 8005
+L4 | Mon May  7 04:28:06 2018 (801 ms) | general | Apocalypse check:  New remote apocalypse:  5.
+L4 | Mon May  7 04:31:13 2018 (923 ms) | general | Got connection
+L4 | Mon May  7 04:31:13 2018 (924 ms) | general | Listening for another connection on port 8005
+L4 | Mon May  7 04:31:24 2018 (778 ms) | general | Client failed to LOGIN after 10 seconds, client rejected.
+L4 | Mon May  7 04:31:24 2018 (778 ms) | general | Closing new connection on error (cause: Login timeout)
+L4 | Mon May  7 04:33:04 2018 (925 ms) | general | Quit received for unix
+L4 | Mon May  7 04:33:04 2018 (925 ms) | general | Cleaning up on quit...
+L4 | Mon May  7 04:33:04 2018 (925 ms) | general | Cleaning up map database on server shutdown.
+L4 | Mon May  7 04:33:05 2018 (215 ms) | general | ...0 useDummy objects present that were changed back into their unused parent.
+L4 | Mon May  7 04:33:05 2018 (215 ms) | general | ...0 contained useDummy objects present and changed back to usused parent.
+L4 | Mon May  7 04:33:05 2018 (215 ms) | general | Now running normal map clean...
+L4 | Mon May  7 04:33:05 2018 (215 ms) | general | 
+Cleaning map of objects that have been removed and variable objects...
+L4 | Mon May  7 04:33:05 2018 (504 ms) | general | ...0 map cells were set, and 0 needed to be cleared.
+L4 | Mon May  7 04:33:05 2018 (505 ms) | general | ...0 contained objects present, and 0 needed to be cleared.
+L4 | Mon May  7 04:33:05 2018 (515 ms) | general | Done.
+L4 | Mon May  7 04:34:25 2018 (149 ms) | general | Server starting up
+L4 | Mon May  7 04:34:25 2018 (149 ms) | general | Server using version number 88
+L4 | Mon May  7 04:34:25 2018 (179 ms) | general | lifeLog starting up
+L4 | Mon May  7 04:34:25 2018 (179 ms) | general | Backup system inited.  Backups on = 1, target hour UTC = 8, current hour UTC = 4, last backup was 423796.573611 hours ago
+L4 | Mon May  7 04:34:25 2018 (435 ms) | general | foodLog starting up
+L4 | Mon May  7 04:34:25 2018 (435 ms) | general | failureLog starting up
+L4 | Mon May  7 04:34:25 2018 (453 ms) | general | 
+Cleaning stale look times from map...
+L4 | Mon May  7 04:34:25 2018 (748 ms) | general | Cleaned 0 / 0 stale look times
+L4 | Mon May  7 04:34:25 2018 (758 ms) | general | No lookTimes present, not cleaning map.db
+L4 | Mon May  7 04:34:26 2018 (76 ms) | general | No lookTimes present, not cleaning mapTime.db
+L4 | Mon May  7 04:34:26 2018 (390 ms) | general | No lookTimes present, not cleaning biome.db
+L4 | Mon May  7 04:34:26 2018 (961 ms) | general | No lookTimes present, not cleaning floor.db
+L4 | Mon May  7 04:34:27 2018 (252 ms) | general | No lookTimes present, not cleaning floorTime.db
+L4 | Mon May  7 04:34:27 2018 (552 ms) | general | Biome 0:  Found 14 natural objects with total weight 15.000000
+L4 | Mon May  7 04:34:27 2018 (553 ms) | general | Biome 3:  Found 11 natural objects with total weight 7.410000
+L4 | Mon May  7 04:34:27 2018 (553 ms) | general | Biome 4:  Found 7 natural objects with total weight 3.410000
+L4 | Mon May  7 04:34:27 2018 (553 ms) | general | Biome 5:  Found 9 natural objects with total weight 4.551000
+L4 | Mon May  7 04:34:27 2018 (554 ms) | general | Biome 2:  Found 6 natural objects with total weight 4.500000
+L4 | Mon May  7 04:34:27 2018 (554 ms) | general | Biome 1:  Found 5 natural objects with total weight 7.000000
+L4 | Mon May  7 04:34:27 2018 (554 ms) | general | 
+Cleaning map of objects that have been removed and variable objects...
+L4 | Mon May  7 04:34:27 2018 (850 ms) | general | ...0 map cells were set, and 0 needed to be cleared.
+L4 | Mon May  7 04:34:27 2018 (850 ms) | general | ...0 contained objects present, and 0 needed to be cleared.
+L4 | Mon May  7 04:34:27 2018 (851 ms) | general | Listening for connection on port 8005
+L4 | Mon May  7 04:34:33 2018 (613 ms) | general | Got connection
+L4 | Mon May  7 04:34:33 2018 (614 ms) | general | Listening for another connection on port 8005
+L4 | Mon May  7 04:34:44 2018 (196 ms) | general | Quit received for unix
+L4 | Mon May  7 04:34:44 2018 (196 ms) | general | Client failed to LOGIN after 10 seconds, client rejected.
+L4 | Mon May  7 04:34:44 2018 (196 ms) | general | Closing new connection on error (cause: Login timeout)
+L4 | Mon May  7 04:34:44 2018 (196 ms) | general | Cleaning up on quit...
+L4 | Mon May  7 04:34:44 2018 (196 ms) | general | Cleaning up map database on server shutdown.
+L4 | Mon May  7 04:34:44 2018 (482 ms) | general | ...0 useDummy objects present that were changed back into their unused parent.
+L4 | Mon May  7 04:34:44 2018 (482 ms) | general | ...0 contained useDummy objects present and changed back to usused parent.
+L4 | Mon May  7 04:34:44 2018 (483 ms) | general | Now running normal map clean...
+L4 | Mon May  7 04:34:44 2018 (483 ms) | general | 
+Cleaning map of objects that have been removed and variable objects...
+L4 | Mon May  7 04:34:44 2018 (774 ms) | general | ...0 map cells were set, and 0 needed to be cleared.
+L4 | Mon May  7 04:34:44 2018 (780 ms) | general | ...0 contained objects present, and 0 needed to be cleared.
+L4 | Mon May  7 04:34:44 2018 (784 ms) | general | Done.
+L4 | Mon May  7 04:40:42 2018 (548 ms) | general | Server starting up
+L4 | Mon May  7 04:40:42 2018 (549 ms) | general | Server using version number 88
+L4 | Mon May  7 04:40:42 2018 (582 ms) | general | lifeLog starting up
+L4 | Mon May  7 04:40:42 2018 (583 ms) | general | Backup system inited.  Backups on = 1, target hour UTC = 8, current hour UTC = 4, last backup was 423796.678333 hours ago
+L4 | Mon May  7 04:40:43 2018 (233 ms) | general | foodLog starting up
+L4 | Mon May  7 04:40:43 2018 (233 ms) | general | failureLog starting up
+L4 | Mon May  7 04:40:43 2018 (260 ms) | general | 
+Cleaning stale look times from map...
+L4 | Mon May  7 04:40:43 2018 (565 ms) | general | Cleaned 0 / 0 stale look times
+L4 | Mon May  7 04:40:43 2018 (581 ms) | general | No lookTimes present, not cleaning map.db
+L4 | Mon May  7 04:40:43 2018 (874 ms) | general | No lookTimes present, not cleaning mapTime.db
+L4 | Mon May  7 04:40:44 2018 (168 ms) | general | No lookTimes present, not cleaning biome.db
+L4 | Mon May  7 04:40:44 2018 (744 ms) | general | No lookTimes present, not cleaning floor.db
+L4 | Mon May  7 04:40:45 2018 (38 ms) | general | No lookTimes present, not cleaning floorTime.db
+L4 | Mon May  7 04:40:45 2018 (324 ms) | general | Biome 0:  Found 14 natural objects with total weight 15.000000
+L4 | Mon May  7 04:40:45 2018 (325 ms) | general | Biome 3:  Found 11 natural objects with total weight 7.410000
+L4 | Mon May  7 04:40:45 2018 (325 ms) | general | Biome 4:  Found 7 natural objects with total weight 3.410000
+L4 | Mon May  7 04:40:45 2018 (325 ms) | general | Biome 5:  Found 9 natural objects with total weight 4.551000
+L4 | Mon May  7 04:40:45 2018 (325 ms) | general | Biome 2:  Found 6 natural objects with total weight 4.500000
+L4 | Mon May  7 04:40:45 2018 (325 ms) | general | Biome 1:  Found 5 natural objects with total weight 7.000000
+L4 | Mon May  7 04:40:45 2018 (325 ms) | general | 
+Cleaning map of objects that have been removed and variable objects...
+L4 | Mon May  7 04:40:45 2018 (616 ms) | general | ...0 map cells were set, and 0 needed to be cleared.
+L4 | Mon May  7 04:40:45 2018 (617 ms) | general | ...0 contained objects present, and 0 needed to be cleared.
+L4 | Mon May  7 04:40:45 2018 (617 ms) | general | Listening for connection on port 8005
+L4 | Mon May  7 04:41:24 2018 (875 ms) | general | Got connection
+L4 | Mon May  7 04:41:24 2018 (875 ms) | general | Listening for another connection on port 8005
+L4 | Mon May  7 04:41:35 2018 (823 ms) | general | Client failed to LOGIN after 10 seconds, client rejected.
+L4 | Mon May  7 04:41:35 2018 (823 ms) | general | Closing new connection on error (cause: Login timeout)
+L4 | Mon May  7 04:42:24 2018 (774 ms) | general | Got connection
+L4 | Mon May  7 04:42:24 2018 (775 ms) | general | Listening for another connection on port 8005
+L4 | Mon May  7 04:42:35 2018 (614 ms) | general | Client failed to LOGIN after 10 seconds, client rejected.
+L4 | Mon May  7 04:42:35 2018 (614 ms) | general | Closing new connection on error (cause: Login timeout)
+L4 | Mon May  7 04:42:43 2018 (86 ms) | general | Got connection
+L4 | Mon May  7 04:42:43 2018 (87 ms) | general | Listening for another connection on port 8005
+L4 | Mon May  7 04:42:53 2018 (894 ms) | general | Client failed to LOGIN after 10 seconds, client rejected.
+L4 | Mon May  7 04:42:53 2018 (894 ms) | general | Closing new connection on error (cause: Login timeout)
+L4 | Mon May  7 04:44:27 2018 (894 ms) | general | Got connection
+L4 | Mon May  7 04:44:27 2018 (895 ms) | general | Listening for another connection on port 8005
+L4 | Mon May  7 04:44:38 2018 (734 ms) | general | Client failed to LOGIN after 10 seconds, client rejected.
+L4 | Mon May  7 04:44:38 2018 (734 ms) | general | Closing new connection on error (cause: Login timeout)
+L4 | Mon May  7 04:44:51 2018 (133 ms) | general | Quit received for unix
+L4 | Mon May  7 04:44:51 2018 (133 ms) | general | Cleaning up on quit...
+L4 | Mon May  7 04:44:51 2018 (133 ms) | general | Cleaning up map database on server shutdown.
+L4 | Mon May  7 04:44:51 2018 (434 ms) | general | ...0 useDummy objects present that were changed back into their unused parent.
+L4 | Mon May  7 04:44:51 2018 (434 ms) | general | ...0 contained useDummy objects present and changed back to usused parent.
+L4 | Mon May  7 04:44:51 2018 (434 ms) | general | Now running normal map clean...
+L4 | Mon May  7 04:44:51 2018 (434 ms) | general | 
+Cleaning map of objects that have been removed and variable objects...
+L4 | Mon May  7 04:44:51 2018 (732 ms) | general | ...0 map cells were set, and 0 needed to be cleared.
+L4 | Mon May  7 04:44:51 2018 (732 ms) | general | ...0 contained objects present, and 0 needed to be cleared.
+L4 | Mon May  7 04:44:51 2018 (742 ms) | general | Done.
+L4 | Mon May  7 05:04:44 2018 (262 ms) | general | Server starting up
+L4 | Mon May  7 05:04:44 2018 (263 ms) | general | Server using version number 93
+L4 | Mon May  7 05:04:44 2018 (293 ms) | general | lifeLog starting up
+L4 | Mon May  7 05:04:44 2018 (293 ms) | general | Backup system inited.  Backups on = 1, target hour UTC = 8, current hour UTC = 5, last backup was 423797.078889 hours ago
+L4 | Mon May  7 05:04:45 2018 (71 ms) | general | foodLog starting up
+L4 | Mon May  7 05:04:45 2018 (71 ms) | general | failureLog starting up
+L4 | Mon May  7 05:04:45 2018 (90 ms) | general | 
+Cleaning stale look times from map...
+L4 | Mon May  7 05:04:45 2018 (379 ms) | general | Cleaned 0 / 0 stale look times
+L4 | Mon May  7 05:04:45 2018 (395 ms) | general | No lookTimes present, not cleaning map.db
+L4 | Mon May  7 05:04:45 2018 (672 ms) | general | No lookTimes present, not cleaning mapTime.db
+L4 | Mon May  7 05:04:45 2018 (955 ms) | general | No lookTimes present, not cleaning biome.db
+L4 | Mon May  7 05:04:46 2018 (515 ms) | general | No lookTimes present, not cleaning floor.db
+L4 | Mon May  7 05:04:46 2018 (789 ms) | general | No lookTimes present, not cleaning floorTime.db
+L4 | Mon May  7 05:04:47 2018 (86 ms) | general | Biome 0:  Found 14 natural objects with total weight 15.000000
+L4 | Mon May  7 05:04:47 2018 (86 ms) | general | Biome 3:  Found 11 natural objects with total weight 7.410000
+L4 | Mon May  7 05:04:47 2018 (86 ms) | general | Biome 4:  Found 7 natural objects with total weight 3.410000
+L4 | Mon May  7 05:04:47 2018 (86 ms) | general | Biome 5:  Found 9 natural objects with total weight 4.551000
+L4 | Mon May  7 05:04:47 2018 (86 ms) | general | Biome 2:  Found 6 natural objects with total weight 4.500000
+L4 | Mon May  7 05:04:47 2018 (87 ms) | general | Biome 1:  Found 5 natural objects with total weight 7.000000
+L4 | Mon May  7 05:04:47 2018 (87 ms) | general | 
+Cleaning map of objects that have been removed...
+L4 | Mon May  7 05:04:47 2018 (395 ms) | general | ...0 map cells were set, and 0 needed to be cleared.
+L4 | Mon May  7 05:04:47 2018 (395 ms) | general | ...0 contained objects present, and 0 needed to be cleared.
+L4 | Mon May  7 05:04:47 2018 (396 ms) | general | Listening for connection on port 8005
+L4 | Mon May  7 05:04:53 2018 (403 ms) | general | Apocalypse check:  New remote apocalypse:  5.
+L4 | Mon May  7 05:05:13 2018 (662 ms) | general | Got connection
+L4 | Mon May  7 05:05:13 2018 (662 ms) | general | Listening for another connection on port 8005
+L4 | Mon May  7 05:05:14 2018 (490 ms) | general | Got new player logged in
+L4 | Mon May  7 05:05:14 2018 (491 ms) | general | New player developer@gmail.com connected as player 2
+L4 | Mon May  7 05:05:15 2018 (957 ms) | general | Got client message from 2: MOVE 0 0 1 0
+L4 | Mon May  7 05:05:16 2018 (694 ms) | general | Got client message from 2: MOVE 1 0 0 1
+L4 | Mon May  7 05:05:17 2018 (746 ms) | general | Got client message from 2: MOVE 1 1 -1 1 -1 2
+L4 | Mon May  7 05:05:18 2018 (114 ms) | general | Got client message from 2: MOVE 0 1 0 1
+L4 | Mon May  7 05:05:18 2018 (166 ms) | general | Got client message from 2: MOVE 0 2 -1 1 -2 1
+L4 | Mon May  7 05:05:18 2018 (534 ms) | general | Got client message from 2: MOVE -1 3 -1 1 -2 1
+L4 | Mon May  7 05:05:18 2018 (973 ms) | general | Got client message from 2: MOVE -2 4 -1 0 -2 0 -3 0
+L4 | Mon May  7 05:05:19 2018 (502 ms) | general | Got client message from 2: MOVE -4 4 -1 0 -2 1 -3 2
+L4 | Mon May  7 05:05:20 2018 (170 ms) | general | Got client message from 2: MOVE -6 5 -1 1 -2 1 -3 1 -4 1
+L4 | Mon May  7 05:05:21 2018 (190 ms) | general | Got client message from 2: MOVE -9 6 -1 1 -2 2 -3 2
+L4 | Mon May  7 05:05:22 2018 (38 ms) | general | Got client message from 2: MOVE -11 8 -1 1 -2 2 -3 2 -4 2
+L4 | Mon May  7 05:05:22 2018 (673 ms) | general | Got client message from 2: MOVE -12 9 -1 1 -2 1 -3 1 -4 1 -5 1
+L4 | Mon May  7 05:05:23 2018 (178 ms) | general | Got client message from 2: MOVE -14 10 -1 0 -2 0 -3 0 -4 0
+L4 | Mon May  7 05:05:23 2018 (974 ms) | general | Got client message from 2: MOVE -17 10 -1 0 -2 0 -3 0 -4 0
+L4 | Mon May  7 05:05:24 2018 (514 ms) | general | Got client message from 2: MOVE -19 10 -1 1 -2 1 -3 1
+L4 | Mon May  7 05:05:25 2018 (386 ms) | general | Got client message from 2: MOVE -22 11 1 1
+L4 | Mon May  7 05:05:25 2018 (934 ms) | general | Got client message from 2: USE -21 13
+L4 | Mon May  7 05:05:26 2018 (422 ms) | general | Got client message from 2: MOVE -21 12 1 1 2 2
+L4 | Mon May  7 05:05:26 2018 (737 ms) | general | Got client message from 2: MOVE -20 13 1 1 2 2
+L4 | Mon May  7 05:05:27 2018 (121 ms) | general | Got client message from 2: MOVE -19 14 1 1 2 2 3 3
+L4 | Mon May  7 05:05:27 2018 (173 ms) | general | Got client message from 2: MOVE -19 14 1 1
+L4 | Mon May  7 05:05:28 2018 (278 ms) | general | Got client message from 2: MOVE -18 15 0 1 0 2
+L4 | Mon May  7 05:05:28 2018 (793 ms) | general | Got client message from 2: MOVE -18 17 -1 0 -2 -1 -3 -1 -4 -1
+L4 | Mon May  7 05:05:29 2018 (778 ms) | general | Got client message from 2: MOVE -21 16 -1 1 -2 2 -3 2
+L4 | Mon May  7 05:05:30 2018 (598 ms) | general | Got client message from 2: MOVE -23 18 -1 1 -2 1 -3 1 -4 1
+L4 | Mon May  7 05:05:30 2018 (681 ms) | general | Got client message from 2: MOVE -23 18 -1 1 -2 1
+L4 | Mon May  7 05:05:31 2018 (985 ms) | general | Got client message from 2: MOVE -25 19 1 0
+L4 | Mon May  7 05:05:32 2018 (66 ms) | general | Got client message from 2: MOVE -25 19 1 0 2 0
+L4 | Mon May  7 05:05:32 2018 (254 ms) | general | Got client message from 2: MOVE -24 19 1 0 2 0
+L4 | Mon May  7 05:05:32 2018 (486 ms) | general | Got client message from 2: MOVE -23 19 -1 -1 -2 -2 -3 -2
+L4 | Mon May  7 05:05:32 2018 (774 ms) | general | Got client message from 2: MOVE -24 18 0 -1
+L4 | Mon May  7 05:05:33 2018 (722 ms) | general | Got client message from 2: MOVE -24 17 1 1
+L4 | Mon May  7 05:05:34 2018 (825 ms) | general | Got client message from 2: MOVE -23 18 -1 0
+L4 | Mon May  7 05:05:36 2018 (230 ms) | general | Got client message from 2: USE -24 18
+L4 | Mon May  7 05:05:36 2018 (970 ms) | general | Got client message from 2: MOVE -24 18 1 -1 1 -2
+L4 | Mon May  7 05:05:37 2018 (233 ms) | general | Got client message from 2: MOVE -23 17 0 -1 0 -2
+L4 | Mon May  7 05:05:37 2018 (570 ms) | general | Got client message from 2: MOVE -23 16 0 -1 0 -2 0 -3 0 -4
+L4 | Mon May  7 05:05:38 2018 (254 ms) | general | Got client message from 2: MOVE -23 13 0 -1 0 -2
+L4 | Mon May  7 05:05:40 2018 (977 ms) | general | Got client message from 2: MOVE -23 11 1 0 2 0
+L4 | Mon May  7 05:05:41 2018 (241 ms) | general | Got client message from 2: MOVE -22 11 1 0 2 0
+L4 | Mon May  7 05:05:41 2018 (478 ms) | general | Got client message from 2: MOVE -21 11 1 0 2 0 3 0 4 0
+L4 | Mon May  7 05:05:41 2018 (526 ms) | general | Got client message from 2: MOVE -21 11 1 0 2 0
+L4 | Mon May  7 05:05:42 2018 (614 ms) | general | Got client message from 2: DROP -18 11 -1
+L4 | Mon May  7 05:05:50 2018 (469 ms) | general | Closing connection to player 2 on error (cause: Socket write failed)
+L4 | Mon May  7 05:05:50 2018 (469 ms) | general | 0 remaining player(s) alive on server 
+L4 | Mon May  7 05:05:56 2018 (477 ms) | general | Server log_game request rejected by stats server
+L4 | Mon May  7 05:08:28 2018 (657 ms) | general | Got connection
+L4 | Mon May  7 05:08:28 2018 (657 ms) | general | Listening for another connection on port 8005
+L4 | Mon May  7 05:08:31 2018 (489 ms) | general | Got new player logged in
+L4 | Mon May  7 05:08:31 2018 (490 ms) | general | New player bloodylegend connected as player 3
+L4 | Mon May  7 05:08:32 2018 (981 ms) | general | Got client message from 3: MOVE 0 0 1 -1
+L4 | Mon May  7 05:08:33 2018 (313 ms) | general | Got client message from 3: MOVE 1 -1 -1 -1
+L4 | Mon May  7 05:08:33 2018 (429 ms) | general | Got client message from 3: MOVE 1 -1 -1 -1 -1 -2
+L4 | Mon May  7 05:08:33 2018 (665 ms) | general | Got client message from 3: MOVE 0 -2 -1 1 -2 1
+L4 | Mon May  7 05:08:36 2018 (153 ms) | general | Got client message from 3: MOVE -2 -1 1 0 2 -1
+L4 | Mon May  7 05:08:36 2018 (405 ms) | general | Got client message from 3: MOVE -1 -1 1 -1 2 -1
+L4 | Mon May  7 05:08:40 2018 (882 ms) | general | Got client message from 3: MOVE 1 -2 -1 -1
+L4 | Mon May  7 05:08:41 2018 (66 ms) | general | Got client message from 3: MOVE 1 -2 -1 -1 -1 -2
+L4 | Mon May  7 05:08:41 2018 (217 ms) | general | Got client message from 3: MOVE 0 -3 0 -1 0 -2
+L4 | Mon May  7 05:08:43 2018 (657 ms) | general | Got client message from 3: MOVE 0 -5 -1 1 -1 2
+L4 | Mon May  7 05:08:44 2018 (25 ms) | general | Got client message from 3: MOVE -1 -4 -1 1 -1 2
+L4 | Mon May  7 05:08:44 2018 (225 ms) | general | Got client message from 3: MOVE -1 -4 0 1 -1 2 0 3
+L4 | Mon May  7 05:08:45 2018 (677 ms) | general | Got client message from 3: MOVE -1 -1 -1 0
+L4 | Mon May  7 05:08:46 2018 (161 ms) | general | Got client message from 3: USE -2 -2
+L4 | Mon May  7 05:08:46 2018 (945 ms) | general | Got client message from 3: DROP -3 -1 -1
+L4 | Mon May  7 05:08:47 2018 (745 ms) | general | Got client message from 3: MOVE -2 -1 1 0 2 0 3 0
+L4 | Mon May  7 05:08:48 2018 (53 ms) | general | Got client message from 3: MOVE 0 -1 1 0 2 0 3 0 4 0
+L4 | Mon May  7 05:08:48 2018 (321 ms) | general | Got client message from 3: MOVE 1 -1 1 -1 2 0 3 -1
+L4 | Mon May  7 05:08:50 2018 (677 ms) | general | Got client message from 3: MOVE 4 -2 -1 1 -2 1 -3 1
+L4 | Mon May  7 05:08:51 2018 (329 ms) | general | Got client message from 3: MOVE 2 -1 -1 1 -2 1 -3 2
+L4 | Mon May  7 05:08:52 2018 (82 ms) | general | Got client message from 3: MOVE 0 0 1 1 2 1 3 1 4 1
+L4 | Mon May  7 05:08:52 2018 (518 ms) | general | Got client message from 3: MOVE 1 1 1 1
+L4 | Mon May  7 05:08:53 2018 (349 ms) | general | Got client message from 3: MOVE 2 2 -1 1 -2 2
+L4 | Mon May  7 05:08:54 2018 (53 ms) | general | Got client message from 3: MOVE 0 4 -1 1
+L4 | Mon May  7 05:08:54 2018 (838 ms) | general | Got client message from 3: USE -2 5
+L4 | Mon May  7 05:08:56 2018 (57 ms) | general | Got client message from 3: DROP 0 5 -1
+L4 | Mon May  7 05:08:56 2018 (661 ms) | general | Got client message from 3: MOVE -1 5 1 1 1 2
+L4 | Mon May  7 05:08:57 2018 (49 ms) | general | Got client message from 3: MOVE 0 6 1 1
+L4 | Mon May  7 05:08:57 2018 (225 ms) | general | Got client message from 3: MOVE 0 6 1 -1
+L4 | Mon May  7 05:08:57 2018 (245 ms) | general | Got client message from 3: MOVE 0 6 1 -1 1 -2 1 -3 2 -4
+L4 | Mon May  7 05:08:58 2018 (314 ms) | general | Got client message from 3: MOVE 1 3 1 -1 1 -2 1 -3 1 -4
+L4 | Mon May  7 05:08:59 2018 (285 ms) | general | Got client message from 3: MOVE 2 0 1 -1 0 -2 1 -3 1 -4
+L4 | Mon May  7 05:08:59 2018 (537 ms) | general | Got client message from 3: MOVE 2 0 1 -1 0 -2 1 -3
+L4 | Mon May  7 05:09:01 2018 (129 ms) | general | Got client message from 3: MOVE 3 -3 -1 1
+L4 | Mon May  7 05:09:01 2018 (769 ms) | general | Got client message from 3: USE 2 -1
+L4 | Mon May  7 05:09:02 2018 (393 ms) | general | Got client message from 3: DROP 1 -2 -1
+L4 | Mon May  7 05:09:02 2018 (737 ms) | general | Got client message from 3: MOVE 2 -2 -1 -1 -2 -1
+L4 | Mon May  7 05:09:04 2018 (177 ms) | general | Got client message from 3: MOVE 0 -3 0 -1
+L4 | Mon May  7 05:09:04 2018 (613 ms) | general | Got client message from 3: USE -1 -4
+L4 | Mon May  7 05:09:05 2018 (453 ms) | general | Got client message from 3: MOVE 0 -4 1 1
+L4 | Mon May  7 05:09:06 2018 (1 ms) | general | Got client message from 3: USE 1 -2
+L4 | Mon May  7 05:09:06 2018 (421 ms) | general | Got client message from 3: MOVE 1 -3 1 0 2 0 3 0
+L4 | Mon May  7 05:09:06 2018 (921 ms) | general | Got client message from 3: MOVE 3 -3 1 0 2 0 3 0 4 0
+L4 | Mon May  7 05:09:07 2018 (721 ms) | general | Got client message from 3: MOVE 6 -3 1 0 2 0 3 0 4 0
+L4 | Mon May  7 05:09:08 2018 (525 ms) | general | Got client message from 3: MOVE 9 -3 1 -1 2 -1 3 -2
+L4 | Mon May  7 05:09:08 2018 (557 ms) | general | Got client message from 3: MOVE 9 -3 1 -1 2 -1
+L4 | Mon May  7 05:09:09 2018 (193 ms) | general | Got client message from 3: MOVE 11 -4 0 -1
+L4 | Mon May  7 05:09:09 2018 (745 ms) | general | Got client message from 3: MOVE 11 -5 0 -1
+L4 | Mon May  7 05:09:09 2018 (813 ms) | general | Got client message from 3: MOVE 11 -5 0 -1 0 -2
+L4 | Mon May  7 05:09:10 2018 (445 ms) | general | Got client message from 3: MOVE 11 -7 0 -1 0 -2
+L4 | Mon May  7 05:09:11 2018 (21 ms) | general | Got client message from 3: MOVE 11 -9 0 -1
+L4 | Mon May  7 05:09:11 2018 (121 ms) | general | Got client message from 3: MOVE 11 -9 0 -1 0 -2
+L4 | Mon May  7 05:09:11 2018 (485 ms) | general | Got client message from 3: MOVE 11 -11 0 -1
+L4 | Mon May  7 05:09:11 2018 (633 ms) | general | Got client message from 3: MOVE 11 -11 0 -1 0 -2
+L4 | Mon May  7 05:09:13 2018 (5 ms) | general | Got client message from 3: MOVE 11 -13 1 -1 2 -1 3 -1
+L4 | Mon May  7 05:09:14 2018 (125 ms) | general | Got client message from 3: USE 15 -14
+L4 | Mon May  7 05:09:14 2018 (373 ms) | general | Got client message from 3: MOVE 14 -14 -1 1
+L4 | Mon May  7 05:09:14 2018 (393 ms) | general | Got client message from 3: MOVE 14 -14 -1 1 -2 1
+L4 | Mon May  7 05:09:14 2018 (794 ms) | general | Got client message from 3: MOVE 13 -13 -1 1 -2 1 -3 1
+L4 | Mon May  7 05:09:15 2018 (561 ms) | general | Got client message from 3: MOVE 11 -12 -1 1 -2 1 -3 1 -4 1
+L4 | Mon May  7 05:09:16 2018 (593 ms) | general | Got client message from 3: MOVE 8 -11 -1 1 -2 2 -3 2 -4 2 -5 2
+L4 | Mon May  7 05:09:17 2018 (861 ms) | general | Got client message from 3: MOVE 4 -9 -1 1 -2 1 -3 0 -4 0 -5 1 -6 2
+L4 | Mon May  7 05:09:19 2018 (753 ms) | general | Got client message from 3: MOVE -1 -8 -1 1 -1 2 -2 3
+L4 | Mon May  7 05:09:19 2018 (957 ms) | general | Got client message from 3: MOVE -1 -8 -1 1 -1 2
+L4 | Mon May  7 05:09:20 2018 (857 ms) | general | Got client message from 3: MOVE -2 -6 0 1 0 2
+L4 | Mon May  7 05:09:21 2018 (109 ms) | general | Got client message from 3: MOVE -2 -5 0 1 0 2
+L4 | Mon May  7 05:09:21 2018 (397 ms) | general | Got client message from 3: MOVE -2 -4 1 1
+L4 | Mon May  7 05:09:21 2018 (513 ms) | general | Got client message from 3: MOVE -2 -4 1 1 2 2 3 3
+L4 | Mon May  7 05:09:21 2018 (661 ms) | general | Got client message from 3: MOVE -1 -3 1 1
+L4 | Mon May  7 05:09:22 2018 (13 ms) | general | Got client message from 3: MOVE 0 -2 -1 1 -2 1
+L4 | Mon May  7 05:09:23 2018 (765 ms) | general | Got client message from 3: USE -3 -1
+L4 | Mon May  7 05:09:24 2018 (517 ms) | general | Got client message from 3: USE -3 -1
+L4 | Mon May  7 05:09:25 2018 (105 ms) | general | Got client message from 3: MOVE -2 -1 1 0 2 -1
+L4 | Mon May  7 05:09:25 2018 (569 ms) | general | Got client message from 3: MOVE -1 -1 1 -1 1 -2
+L4 | Mon May  7 05:09:26 2018 (957 ms) | general | Got client message from 3: MOVE 0 -3 1 1
+L4 | Mon May  7 05:09:28 2018 (511 ms) | general | Got client message from 3: USE 1 -2
+L4 | Mon May  7 05:09:29 2018 (297 ms) | general | Got client message from 3: USE 1 -2
+L4 | Mon May  7 05:09:30 2018 (33 ms) | general | Got client message from 3: MOVE 1 -2 0 1 0 2
+L4 | Mon May  7 05:09:30 2018 (297 ms) | general | Got client message from 3: MOVE 1 -1 0 1 0 2
+L4 | Mon May  7 05:09:30 2018 (545 ms) | general | Got client message from 3: MOVE 1 0 0 1 0 2 0 3 1 4
+L4 | Mon May  7 05:09:31 2018 (21 ms) | general | Got client message from 3: MOVE 1 1 0 1 0 2
+L4 | Mon May  7 05:09:32 2018 (517 ms) | general | Got client message from 3: MOVE 1 3 0 1
+L4 | Mon May  7 05:09:33 2018 (346 ms) | general | Got client message from 3: DROP 1 5 -1
+L4 | Mon May  7 05:09:34 2018 (285 ms) | general | Got client message from 3: MOVE 1 4 0 1 0 2
+L4 | Mon May  7 05:09:34 2018 (529 ms) | general | Got client message from 3: MOVE 1 5 0 1 0 2
+L4 | Mon May  7 05:09:34 2018 (729 ms) | general | Got client message from 3: MOVE 1 6 0 1 -1 2 -1 3 -1 4
+L4 | Mon May  7 05:09:35 2018 (749 ms) | general | Got client message from 3: MOVE 0 9 0 -1 0 -2 1 -3 1 -4
+L4 | Mon May  7 05:09:35 2018 (953 ms) | general | Got client message from 3: MOVE 0 8 0 -1 0 -2
+L4 | Mon May  7 05:09:37 2018 (37 ms) | general | Got client message from 3: MOVE 0 6 1 1 2 1
+L4 | Mon May  7 05:09:38 2018 (141 ms) | general | Got client message from 3: MOVE 2 7 1 1 2 1
+L4 | Mon May  7 05:09:38 2018 (525 ms) | general | Got client message from 3: MOVE 3 8 1 1 2 1
+L4 | Mon May  7 05:09:39 2018 (509 ms) | general | Got client message from 3: MOVE 5 9 0 1 0 2
+L4 | Mon May  7 05:09:39 2018 (777 ms) | general | Got client message from 3: MOVE 5 10 0 1 0 2
+L4 | Mon May  7 05:09:40 2018 (29 ms) | general | Got client message from 3: MOVE 5 11 0 1 -1 2 -1 3 -1 4
+L4 | Mon May  7 05:09:41 2018 (45 ms) | general | Got client message from 3: MOVE 4 14 -1 1 -2 2 -2 3
+L4 | Mon May  7 05:09:41 2018 (801 ms) | general | Got client message from 3: MOVE 2 16 -1 0 -2 -1 -3 0
+L4 | Mon May  7 05:09:43 2018 (869 ms) | general | Got client message from 3: USE -1 15
+L4 | Mon May  7 05:09:44 2018 (689 ms) | general | Got client message from 3: MOVE -1 16 1 -1 0 -2
+L4 | Mon May  7 05:09:45 2018 (77 ms) | general | Got client message from 3: MOVE 0 15 0 -1
+L4 | Mon May  7 05:09:45 2018 (241 ms) | general | Got client message from 3: MOVE 0 15 0 -1
+L4 | Mon May  7 05:09:45 2018 (261 ms) | general | Got client message from 3: MOVE 0 15 0 -1 0 -2
+L4 | Mon May  7 05:09:45 2018 (377 ms) | general | Got client message from 3: MOVE 0 14 0 -1
+L4 | Mon May  7 05:09:45 2018 (393 ms) | general | Got client message from 3: MOVE 0 14 0 -1
+L4 | Mon May  7 05:09:45 2018 (409 ms) | general | Got client message from 3: MOVE 0 14 0 -1
+L4 | Mon May  7 05:09:45 2018 (425 ms) | general | Got client message from 3: MOVE 0 14 0 -1
+L4 | Mon May  7 05:09:45 2018 (445 ms) | general | Got client message from 3: MOVE 0 14 0 -1
+L4 | Mon May  7 05:09:45 2018 (461 ms) | general | Got client message from 3: MOVE 0 14 0 -1
+L4 | Mon May  7 05:09:45 2018 (477 ms) | general | Got client message from 3: MOVE 0 14 0 -1
+L4 | Mon May  7 05:09:45 2018 (493 ms) | general | Got client message from 3: MOVE 0 14 0 -1 0 -2
+L4 | Mon May  7 05:09:45 2018 (645 ms) | general | Got client message from 3: MOVE 0 13 0 -1 0 -2 0 -3 0 -4
+L4 | Mon May  7 05:09:46 2018 (445 ms) | general | Got client message from 3: MOVE 0 10 0 -1 0 -2 0 -3 0 -4
+L4 | Mon May  7 05:09:47 2018 (301 ms) | general | Got client message from 3: MOVE 0 7 0 -1 0 -2 0 -3 0 -4
+L4 | Mon May  7 05:09:47 2018 (921 ms) | general | Got client message from 3: MOVE 0 5 0 -1
+L4 | Mon May  7 05:09:49 2018 (209 ms) | general | Got client message from 3: DROP 1 4 -1
+L4 | Mon May  7 05:09:49 2018 (905 ms) | general | Got client message from 3: MOVE 0 4 1 -1 2 -2
+L4 | Mon May  7 05:09:50 2018 (825 ms) | general | Got client message from 3: USE 3 2
+L4 | Mon May  7 05:09:51 2018 (745 ms) | general | Got client message from 3: MOVE 2 2 -1 1 -1 2
+L4 | Mon May  7 05:09:52 2018 (613 ms) | general | Got client message from 3: DROP 0 4 -1
+L4 | Mon May  7 05:09:53 2018 (365 ms) | general | Got client message from 3: MOVE 1 4 -1 0 -2 0 -3 0 -4 0
+L4 | Mon May  7 05:09:54 2018 (601 ms) | general | Got client message from 3: USE -3 5
+L4 | Mon May  7 05:09:55 2018 (69 ms) | general | Got client message from 3: DROP -4 4 -1
+L4 | Mon May  7 05:09:55 2018 (421 ms) | general | Got client message from 3: MOVE -3 4 -1 0
+L4 | Mon May  7 05:09:55 2018 (853 ms) | general | Got client message from 3: USE -4 5
+L4 | Mon May  7 05:09:56 2018 (189 ms) | general | Got client message from 3: MOVE -4 4 -1 0
+L4 | Mon May  7 05:09:56 2018 (625 ms) | general | Got client message from 3: DROP -6 4 -1
+L4 | Mon May  7 05:09:57 2018 (257 ms) | general | Got client message from 3: USE -5 5
+L4 | Mon May  7 05:09:57 2018 (926 ms) | general | Got client message from 3: DROP -5 4 -1
+L4 | Mon May  7 05:09:58 2018 (225 ms) | general | Got client message from 3: MOVE -5 4 -1 1 -2 1
+L4 | Mon May  7 05:09:58 2018 (593 ms) | general | Got client message from 3: MOVE -6 5 0 1
+L4 | Mon May  7 05:09:58 2018 (609 ms) | general | Got client message from 3: MOVE -6 5 0 1 0 2
+L4 | Mon May  7 05:09:58 2018 (866 ms) | general | Got client message from 3: MOVE -6 6 1 1
+L4 | Mon May  7 05:09:59 2018 (997 ms) | general | Got client message from 3: USE -5 8
+L4 | Mon May  7 05:10:00 2018 (617 ms) | general | Got client message from 3: MOVE -5 7 -1 1 -1 2
+L4 | Mon May  7 05:10:01 2018 (470 ms) | general | Got client message from 3: DROP -7 9 -1
+L4 | Mon May  7 05:10:01 2018 (869 ms) | general | Got client message from 3: MOVE -6 9 -1 0 -2 0
+L4 | Mon May  7 05:10:02 2018 (733 ms) | general | Got client message from 3: USE -9 9
+L4 | Mon May  7 05:10:03 2018 (225 ms) | general | Got client message from 3: DROP -8 9 -1
+L4 | Mon May  7 05:10:03 2018 (713 ms) | general | Got client message from 3: MOVE -8 9 -1 -1 -2 -1
+L4 | Mon May  7 05:10:04 2018 (529 ms) | general | Got client message from 3: USE -10 9
+L4 | Mon May  7 05:10:04 2018 (893 ms) | general | Got client message from 3: DROP -10 8 -1
+L4 | Mon May  7 05:10:05 2018 (813 ms) | general | Got client message from 3: MOVE -10 8 -1 -1 -2 -1 -3 -1 -4 -1
+L4 | Mon May  7 05:10:07 2018 (197 ms) | general | Got client message from 3: USE -15 7
+L4 | Mon May  7 05:10:07 2018 (953 ms) | general | Got client message from 3: MOVE -14 7 0 -1
+L4 | Mon May  7 05:10:08 2018 (34 ms) | general | Got client message from 3: MOVE -14 7 0 -1 0 -2
+L4 | Mon May  7 05:10:09 2018 (153 ms) | general | Got client message from 3: DROP -14 5 -1
+L4 | Mon May  7 05:10:09 2018 (589 ms) | general | Got client message from 3: MOVE -14 5 1 1
+L4 | Mon May  7 05:10:09 2018 (625 ms) | general | Got client message from 3: MOVE -14 5 1 1 2 1
+L4 | Mon May  7 05:10:09 2018 (941 ms) | general | Got client message from 3: MOVE -13 6 1 1 2 1 3 1
+L4 | Mon May  7 05:10:10 2018 (661 ms) | general | Got client message from 3: MOVE -11 7 1 1 2 1 3 1 3 2
+L4 | Mon May  7 05:10:10 2018 (729 ms) | general | Got client message from 3: MOVE -11 7 1 1 2 1 3 1
+L4 | Mon May  7 05:10:12 2018 (565 ms) | general | Got client message from 3: USE -7 8
+L4 | Mon May  7 05:10:13 2018 (669 ms) | general | Got client message from 3: SELF -8 8 -1
+L4 | Mon May  7 05:10:14 2018 (657 ms) | general | Got client message from 3: MOVE -8 8 1 1 1 2
+L4 | Mon May  7 05:10:15 2018 (205 ms) | general | Got client message from 3: MOVE -7 9 1 1
+L4 | Mon May  7 05:10:16 2018 (25 ms) | general | Got client message from 3: USE -5 10
+L4 | Mon May  7 05:10:16 2018 (725 ms) | general | Got client message from 3: DROP -7 10 -1
+L4 | Mon May  7 05:10:24 2018 (346 ms) | general | Closing connection to player 3 on error (cause: Socket read failed)
+L4 | Mon May  7 05:10:24 2018 (346 ms) | general | 0 remaining player(s) alive on server 
+L4 | Mon May  7 05:10:24 2018 (347 ms) | general | Failed to read sequence number from stats server response.
+L4 | Mon May  7 08:00:00 2018 (855 ms) | general | Saving a backup of map.db, mapTime.db, and biome.db floor.db, floorTime.db, playerStats.db, and eve.db ...
+L4 | Mon May  7 08:00:00 2018 (924 ms) | general | ...Done saving backups
+L4 | Mon May  7 08:00:00 2018 (924 ms) | general | Checking for stale backup files (older than 14 days)
+L4 | Mon May  7 08:00:00 2018 (924 ms) | general | Done checking, removed 0 stale backups

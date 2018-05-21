@@ -1,0 +1,73 @@
+game.o: game.cpp ../../minorGems/graphics/Color.h \
+ ../../minorGems/util/SimpleVector.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/util/stringUtils.h \
+ ../../minorGems/util/SettingsManager.h \
+ ../../minorGems/system/MutexLock.h ../../minorGems/system/Time.h \
+ ../../minorGems/util/random/CustomRandomSource.h \
+ ../../minorGems/util/random/RandomSource32.h \
+ ../../minorGems/util/random/RandomSource.h \
+ ../../minorGems/io/file/File.h ../../minorGems/io/file/Path.h \
+ ../../minorGems/io/file/FileInputStream.h ../../minorGems/io/file/File.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/file/FileOutputStream.h \
+ ../../minorGems/io/OutputStream.h ../../minorGems/io/file/Directory.h \
+ ../../minorGems/util/log/AppLog.h ../../minorGems/util/log/Log.h \
+ ../../minorGems/util/log/PrintLog.h ../../minorGems/game/game.h \
+ ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/game/gameGraphics.h ../../minorGems/graphics/Image.h \
+ ../../minorGems/graphics/ChannelFilter.h \
+ ../../minorGems/graphics/Color.h ../../minorGems/io/Serializable.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/OutputStream.h \
+ ../../minorGems/graphics/RawRGBAImage.h ../../minorGems/game/Font.h \
+ ../../minorGems/game/drawUtils.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/game/diffBundle/client/diffBundleClient.h spriteBank.h \
+ objectBank.h SoundUsage.h categoryBank.h transitionBank.h soundBank.h \
+ liveObjectSet.h groundSprites.h FinalMessagePage.h GamePage.h \
+ PageComponent.h ../../minorGems/ui/GUIComponent.h \
+ ../../minorGems/ui/event/ActionListener.h TextButton.h Button.h \
+ ../../minorGems/ui/event/ActionListenerList.h \
+ ../../minorGems/ui/event/ActionListener.h LoadingPage.h AutoUpdatePage.h \
+ LivingLifePage.h pathFind.h GridPos.h animationBank.h TextField.h \
+ ExistingAccountPage.h KeyEquivalentTextButton.h ExtendedMessagePage.h \
+ RebirthChoicePage.h SettingsPage.h CheckboxButton.h SpriteToggleButton.h \
+ SpriteButton.h ValueSlider.h ReviewPage.h ServerActionPage.h TextArea.h \
+ RadioButtonSet.h ageControl.h musicPlayer.h whiteSprites.h
+
+game.dep: game.cpp ../../minorGems/graphics/Color.h \
+ ../../minorGems/util/SimpleVector.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/util/stringUtils.h \
+ ../../minorGems/util/SettingsManager.h \
+ ../../minorGems/system/MutexLock.h ../../minorGems/system/Time.h \
+ ../../minorGems/util/random/CustomRandomSource.h \
+ ../../minorGems/util/random/RandomSource32.h \
+ ../../minorGems/util/random/RandomSource.h \
+ ../../minorGems/io/file/File.h ../../minorGems/io/file/Path.h \
+ ../../minorGems/io/file/FileInputStream.h ../../minorGems/io/file/File.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/file/FileOutputStream.h \
+ ../../minorGems/io/OutputStream.h ../../minorGems/io/file/Directory.h \
+ ../../minorGems/util/log/AppLog.h ../../minorGems/util/log/Log.h \
+ ../../minorGems/util/log/PrintLog.h ../../minorGems/game/game.h \
+ ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/game/gameGraphics.h ../../minorGems/graphics/Image.h \
+ ../../minorGems/graphics/ChannelFilter.h \
+ ../../minorGems/graphics/Color.h ../../minorGems/io/Serializable.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/OutputStream.h \
+ ../../minorGems/graphics/RawRGBAImage.h ../../minorGems/game/Font.h \
+ ../../minorGems/game/drawUtils.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/game/diffBundle/client/diffBundleClient.h spriteBank.h \
+ objectBank.h SoundUsage.h categoryBank.h transitionBank.h soundBank.h \
+ liveObjectSet.h groundSprites.h FinalMessagePage.h GamePage.h \
+ PageComponent.h ../../minorGems/ui/GUIComponent.h \
+ ../../minorGems/ui/event/ActionListener.h TextButton.h Button.h \
+ ../../minorGems/ui/event/ActionListenerList.h \
+ ../../minorGems/ui/event/ActionListener.h LoadingPage.h AutoUpdatePage.h \
+ LivingLifePage.h pathFind.h GridPos.h animationBank.h TextField.h \
+ ExistingAccountPage.h KeyEquivalentTextButton.h ExtendedMessagePage.h \
+ RebirthChoicePage.h SettingsPage.h CheckboxButton.h SpriteToggleButton.h \
+ SpriteButton.h ValueSlider.h ReviewPage.h ServerActionPage.h TextArea.h \
+ RadioButtonSet.h ageControl.h musicPlayer.h whiteSprites.h

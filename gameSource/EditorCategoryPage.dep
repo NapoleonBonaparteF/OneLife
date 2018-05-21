@@ -1,0 +1,49 @@
+EditorCategoryPage.o: EditorCategoryPage.cpp EditorCategoryPage.h \
+ ../../minorGems/ui/event/ActionListener.h \
+ ../../minorGems/ui/GUIComponent.h ../../minorGems/util/SimpleVector.h \
+ ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/game/game.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/system/Time.h GamePage.h \
+ ../../minorGems/game/doublePair.h ../../minorGems/game/gameGraphics.h \
+ ../../minorGems/graphics/Image.h \
+ ../../minorGems/graphics/ChannelFilter.h \
+ ../../minorGems/graphics/Color.h ../../minorGems/io/Serializable.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/OutputStream.h \
+ ../../minorGems/graphics/RawRGBAImage.h PageComponent.h TextButton.h \
+ Button.h ../../minorGems/game/Font.h \
+ ../../minorGems/ui/event/ActionListenerList.h \
+ ../../minorGems/ui/event/ActionListener.h TextField.h Picker.h \
+ Pickable.h categoryBank.h objectBank.h SoundUsage.h keyLegend.h \
+ ../../minorGems/game/drawUtils.h ../../minorGems/graphics/Color.h \
+ ../../minorGems/util/stringUtils.h message.h ObjectPickable.h \
+ spriteBank.h transitionBank.h EditorTransitionPage.h SpriteButton.h \
+ CheckboxButton.h SpriteToggleButton.h RadioButtonSet.h \
+ EditorAnimationPage.h ValueSlider.h SoundWidget.h animationBank.h
+
+EditorCategoryPage.dep: EditorCategoryPage.cpp EditorCategoryPage.h \
+ ../../minorGems/ui/event/ActionListener.h \
+ ../../minorGems/ui/GUIComponent.h ../../minorGems/util/SimpleVector.h \
+ ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/game/game.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/system/Time.h GamePage.h \
+ ../../minorGems/game/doublePair.h ../../minorGems/game/gameGraphics.h \
+ ../../minorGems/graphics/Image.h \
+ ../../minorGems/graphics/ChannelFilter.h \
+ ../../minorGems/graphics/Color.h ../../minorGems/io/Serializable.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/OutputStream.h \
+ ../../minorGems/graphics/RawRGBAImage.h PageComponent.h TextButton.h \
+ Button.h ../../minorGems/game/Font.h \
+ ../../minorGems/ui/event/ActionListenerList.h \
+ ../../minorGems/ui/event/ActionListener.h TextField.h Picker.h \
+ Pickable.h categoryBank.h objectBank.h SoundUsage.h keyLegend.h \
+ ../../minorGems/game/drawUtils.h ../../minorGems/graphics/Color.h \
+ ../../minorGems/util/stringUtils.h message.h ObjectPickable.h \
+ spriteBank.h transitionBank.h EditorTransitionPage.h SpriteButton.h \
+ CheckboxButton.h SpriteToggleButton.h RadioButtonSet.h \
+ EditorAnimationPage.h ValueSlider.h SoundWidget.h animationBank.h

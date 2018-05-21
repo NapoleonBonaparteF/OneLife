@@ -1,0 +1,3 @@
+fft.o: fft.cpp fftsg_h.cpp
+
+fft.dep: fft.cpp fftsg_h.cpp

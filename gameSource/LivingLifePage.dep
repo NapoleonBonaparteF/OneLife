@@ -1,0 +1,77 @@
+LivingLifePage.o: LivingLifePage.cpp LivingLifePage.h \
+ ../../minorGems/ui/event/ActionListener.h \
+ ../../minorGems/ui/GUIComponent.h ../../minorGems/util/SimpleVector.h \
+ ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/game/game.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/system/Time.h transitionBank.h GamePage.h \
+ ../../minorGems/game/doublePair.h ../../minorGems/game/gameGraphics.h \
+ ../../minorGems/graphics/Image.h \
+ ../../minorGems/graphics/ChannelFilter.h \
+ ../../minorGems/graphics/Color.h ../../minorGems/io/Serializable.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/OutputStream.h \
+ ../../minorGems/graphics/RawRGBAImage.h PageComponent.h pathFind.h \
+ GridPos.h animationBank.h objectBank.h SoundUsage.h TextField.h \
+ ../../minorGems/game/Font.h \
+ ../../minorGems/ui/event/ActionListenerList.h \
+ ../../minorGems/ui/event/ActionListener.h spriteBank.h categoryBank.h \
+ soundBank.h whiteSprites.h message.h groundSprites.h accountHmac.h \
+ liveObjectSet.h ageControl.h musicPlayer.h liveAnimationTriggers.h \
+ ../commonSource/fractalNoise.h ../../minorGems/util/MinPriorityQueue.h \
+ ../../minorGems/util/stringUtils.h \
+ ../../minorGems/util/SettingsManager.h \
+ ../../minorGems/system/MutexLock.h \
+ ../../minorGems/util/random/JenkinsRandomSource.h \
+ ../../minorGems/util/random/RandomSource32.h \
+ ../../minorGems/util/random/RandomSource.h \
+ ../../minorGems/game/drawUtils.h ../../minorGems/graphics/Color.h \
+ ../../minorGems/io/file/File.h ../../minorGems/io/file/Path.h \
+ ../../minorGems/io/file/FileInputStream.h ../../minorGems/io/file/File.h \
+ ../../minorGems/io/InputStream.h \
+ ../../minorGems/io/file/FileOutputStream.h \
+ ../../minorGems/io/OutputStream.h ../../minorGems/io/file/Directory.h \
+ ../../minorGems/formats/encodingUtils.h ../../minorGems/system/Thread.h \
+ ../../minorGems/util/log/AppLog.h ../../minorGems/util/log/Log.h \
+ ../../minorGems/util/log/PrintLog.h ../../minorGems/crypto/hashes/sha1.h \
+ ../../minorGems/system/endian.h
+
+LivingLifePage.dep: LivingLifePage.cpp LivingLifePage.h \
+ ../../minorGems/ui/event/ActionListener.h \
+ ../../minorGems/ui/GUIComponent.h ../../minorGems/util/SimpleVector.h \
+ ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/game/game.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/system/Time.h transitionBank.h GamePage.h \
+ ../../minorGems/game/doublePair.h ../../minorGems/game/gameGraphics.h \
+ ../../minorGems/graphics/Image.h \
+ ../../minorGems/graphics/ChannelFilter.h \
+ ../../minorGems/graphics/Color.h ../../minorGems/io/Serializable.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/OutputStream.h \
+ ../../minorGems/graphics/RawRGBAImage.h PageComponent.h pathFind.h \
+ GridPos.h animationBank.h objectBank.h SoundUsage.h TextField.h \
+ ../../minorGems/game/Font.h \
+ ../../minorGems/ui/event/ActionListenerList.h \
+ ../../minorGems/ui/event/ActionListener.h spriteBank.h categoryBank.h \
+ soundBank.h whiteSprites.h message.h groundSprites.h accountHmac.h \
+ liveObjectSet.h ageControl.h musicPlayer.h liveAnimationTriggers.h \
+ ../commonSource/fractalNoise.h ../../minorGems/util/MinPriorityQueue.h \
+ ../../minorGems/util/stringUtils.h \
+ ../../minorGems/util/SettingsManager.h \
+ ../../minorGems/system/MutexLock.h \
+ ../../minorGems/util/random/JenkinsRandomSource.h \
+ ../../minorGems/util/random/RandomSource32.h \
+ ../../minorGems/util/random/RandomSource.h \
+ ../../minorGems/game/drawUtils.h ../../minorGems/graphics/Color.h \
+ ../../minorGems/io/file/File.h ../../minorGems/io/file/Path.h \
+ ../../minorGems/io/file/FileInputStream.h ../../minorGems/io/file/File.h \
+ ../../minorGems/io/InputStream.h \
+ ../../minorGems/io/file/FileOutputStream.h \
+ ../../minorGems/io/OutputStream.h ../../minorGems/io/file/Directory.h \
+ ../../minorGems/formats/encodingUtils.h ../../minorGems/system/Thread.h \
+ ../../minorGems/util/log/AppLog.h ../../minorGems/util/log/Log.h \
+ ../../minorGems/util/log/PrintLog.h ../../minorGems/crypto/hashes/sha1.h \
+ ../../minorGems/system/endian.h

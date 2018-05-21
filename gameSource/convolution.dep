@@ -1,0 +1,7 @@
+convolution.o: convolution.cpp convolution.h \
+ ../../minorGems/system/Time.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h fft.h
+
+convolution.dep: convolution.cpp convolution.h \
+ ../../minorGems/system/Time.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h fft.h

@@ -1,0 +1,23 @@
+musicPlayer2.o: musicPlayer2.cpp ../../minorGems/game/game.h \
+ ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/system/Time.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h ogg.h \
+ ../../minorGems/io/file/File.h ../../minorGems/io/file/Path.h \
+ ../../minorGems/util/stringUtils.h ../../minorGems/util/SimpleVector.h \
+ ../../minorGems/io/file/FileInputStream.h ../../minorGems/io/file/File.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/file/FileOutputStream.h \
+ ../../minorGems/io/OutputStream.h ../../minorGems/io/file/Directory.h
+
+musicPlayer2.dep: musicPlayer2.cpp ../../minorGems/game/game.h \
+ ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/system/Time.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h ogg.h \
+ ../../minorGems/io/file/File.h ../../minorGems/io/file/Path.h \
+ ../../minorGems/util/stringUtils.h ../../minorGems/util/SimpleVector.h \
+ ../../minorGems/io/file/FileInputStream.h ../../minorGems/io/file/File.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/file/FileOutputStream.h \
+ ../../minorGems/io/OutputStream.h ../../minorGems/io/file/Directory.h

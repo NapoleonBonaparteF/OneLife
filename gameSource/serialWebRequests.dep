@@ -1,0 +1,15 @@
+serialWebRequests.o: serialWebRequests.cpp serialWebRequests.h \
+ ../../minorGems/game/game.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/system/Time.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/util/SimpleVector.h ../../minorGems/util/stringUtils.h \
+ accountHmac.h
+
+serialWebRequests.dep: serialWebRequests.cpp serialWebRequests.h \
+ ../../minorGems/game/game.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/system/Time.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/util/SimpleVector.h ../../minorGems/util/stringUtils.h \
+ accountHmac.h

@@ -1,0 +1,13 @@
+ageControl.o: ageControl.cpp ageControl.h \
+ ../../minorGems/game/doublePair.h ../../minorGems/util/SettingsManager.h \
+ ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/util/SimpleVector.h ../../minorGems/system/MutexLock.h \
+ ../../minorGems/system/Time.h
+
+ageControl.dep: ageControl.cpp ageControl.h \
+ ../../minorGems/game/doublePair.h ../../minorGems/util/SettingsManager.h \
+ ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/util/SimpleVector.h ../../minorGems/system/MutexLock.h \
+ ../../minorGems/system/Time.h

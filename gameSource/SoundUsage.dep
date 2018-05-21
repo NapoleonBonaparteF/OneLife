@@ -1,0 +1,15 @@
+SoundUsage.o: SoundUsage.cpp SoundUsage.h \
+ ../../minorGems/util/SimpleVector.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/util/stringUtils.h \
+ ../../minorGems/util/random/JenkinsRandomSource.h \
+ ../../minorGems/util/random/RandomSource32.h \
+ ../../minorGems/util/random/RandomSource.h ../../minorGems/system/Time.h
+
+SoundUsage.dep: SoundUsage.cpp SoundUsage.h \
+ ../../minorGems/util/SimpleVector.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/util/stringUtils.h \
+ ../../minorGems/util/random/JenkinsRandomSource.h \
+ ../../minorGems/util/random/RandomSource32.h \
+ ../../minorGems/util/random/RandomSource.h ../../minorGems/system/Time.h

@@ -1,0 +1,31 @@
+soundBank.o: soundBank.cpp soundBank.h ../../minorGems/game/game.h \
+ ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/system/Time.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h SoundUsage.h \
+ objectBank.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/util/SimpleVector.h animationBank.h \
+ ../../minorGems/util/SettingsManager.h \
+ ../../minorGems/system/MutexLock.h ../../minorGems/util/stringUtils.h \
+ ../../minorGems/io/file/File.h ../../minorGems/io/file/Path.h \
+ ../../minorGems/io/file/FileInputStream.h ../../minorGems/io/file/File.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/file/FileOutputStream.h \
+ ../../minorGems/io/OutputStream.h ../../minorGems/io/file/Directory.h \
+ ../../minorGems/sound/formats/aiff.h convolution.h
+
+soundBank.dep: soundBank.cpp soundBank.h ../../minorGems/game/game.h \
+ ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/system/Time.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h SoundUsage.h \
+ objectBank.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/util/SimpleVector.h animationBank.h \
+ ../../minorGems/util/SettingsManager.h \
+ ../../minorGems/system/MutexLock.h ../../minorGems/util/stringUtils.h \
+ ../../minorGems/io/file/File.h ../../minorGems/io/file/Path.h \
+ ../../minorGems/io/file/FileInputStream.h ../../minorGems/io/file/File.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/file/FileOutputStream.h \
+ ../../minorGems/io/OutputStream.h ../../minorGems/io/file/Directory.h \
+ ../../minorGems/sound/formats/aiff.h convolution.h

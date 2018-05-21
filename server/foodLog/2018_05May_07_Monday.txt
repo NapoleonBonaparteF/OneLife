@@ -1,0 +1,7 @@
+hour=4
+hour=4
+hour=4
+hour=5
+id=31 count=1 value=3 av_age=15.702983 av_mapX=-8 av_mapY=8
+hour=6
+hour=7

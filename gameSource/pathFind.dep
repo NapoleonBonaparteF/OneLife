@@ -1,0 +1,7 @@
+pathFind.o: pathFind.cpp pathFind.h GridPos.h \
+ ../../minorGems/util/SimpleVector.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h
+
+pathFind.dep: pathFind.cpp pathFind.h GridPos.h \
+ ../../minorGems/util/SimpleVector.h ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h

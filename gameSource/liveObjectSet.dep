@@ -1,0 +1,31 @@
+liveObjectSet.o: liveObjectSet.cpp spriteBank.h \
+ ../../minorGems/game/gameGraphics.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/Image.h \
+ ../../minorGems/graphics/ChannelFilter.h \
+ ../../minorGems/graphics/Color.h ../../minorGems/io/Serializable.h \
+ ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/OutputStream.h \
+ ../../minorGems/graphics/RawRGBAImage.h objectBank.h \
+ ../../minorGems/game/doublePair.h ../../minorGems/util/SimpleVector.h \
+ SoundUsage.h soundBank.h ../../minorGems/game/game.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/system/Time.h transitionBank.h animationBank.h \
+ liveObjectSet.h
+
+liveObjectSet.dep: liveObjectSet.cpp spriteBank.h \
+ ../../minorGems/game/gameGraphics.h ../../minorGems/game/doublePair.h \
+ ../../minorGems/graphics/Image.h \
+ ../../minorGems/graphics/ChannelFilter.h \
+ ../../minorGems/graphics/Color.h ../../minorGems/io/Serializable.h \
+ ../../minorGems/common.h \
+ ../../minorGems/util/development/memory/debugMemory.h \
+ ../../minorGems/io/InputStream.h ../../minorGems/io/Stream.h \
+ ../../minorGems/io/TypeIO.h ../../minorGems/io/OutputStream.h \
+ ../../minorGems/graphics/RawRGBAImage.h objectBank.h \
+ ../../minorGems/game/doublePair.h ../../minorGems/util/SimpleVector.h \
+ SoundUsage.h soundBank.h ../../minorGems/game/game.h \
+ ../../minorGems/graphics/openGL/KeyboardHandlerGL.h \
+ ../../minorGems/system/Time.h transitionBank.h animationBank.h \
+ liveObjectSet.h
